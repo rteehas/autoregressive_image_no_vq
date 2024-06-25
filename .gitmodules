@@ -1,0 +1,3 @@
+[submodule "nanoGPT_diffusion"]
+	path = nanoGPT_diffusion
+	url = https://github.com/rteehas/nanoGPT_diffusion.git
