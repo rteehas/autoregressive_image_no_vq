@@ -1,3 +1,6 @@
 [submodule "nanoGPT_diffusion"]
 	path = nanoGPT_diffusion
 	url = https://github.com/rteehas/nanoGPT_diffusion.git
+[submodule "improved-diffusion"]
+	path = improved-diffusion
+	url = https://github.com/rteehas/improved-diffusion.git
